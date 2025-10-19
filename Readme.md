@@ -8,3 +8,7 @@ execute the following terraform steps
 2)terraform init
 3)terraform apply 
 then type yes
+to destoy resources 
+1) terraform plan -destroy
+2) terraform destroy
+confirm yes
